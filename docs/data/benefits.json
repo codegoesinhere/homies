@@ -1,5 +1,16 @@
 [
   {
+    "lat": -35.346195612402326,
+    "lon": 149.08624346137412,
+    "region": "Belconnen",
+    "type": "Shops",
+    "name": "Westfield Belconnen",
+    "address": "Westfield Belconnen, Belconnen ACT",
+    "suburb": "",
+    "category": "benefit_shop",
+    "colour": "#1fa14e"
+  },
+  {
     "lat": -35.25917655137915,
     "lon": 149.06331639698416,
     "region": "Belconnen",
@@ -77,6 +88,17 @@
     "colour": "#1fa14e"
   },
   {
+    "lat": -35.2283611299649,
+    "lon": 149.0024856152371,
+    "region": "Belconnen",
+    "type": "Pubs/clubs",
+    "name": "The Burns Club Belconnen",
+    "address": "The Burns Club, Belconnen ACT",
+    "suburb": "",
+    "category": "benefit_pub_club",
+    "colour": "#0099ff"
+  },
+  {
     "lat": -35.23935174313081,
     "lon": 149.0523432655047,
     "region": "Page",
@@ -110,8 +132,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.25917655137915,
-    "lon": 149.06331639698416,
+    "lat": -35.240330258250786,
+    "lon": 149.0706656808483,
     "region": "Belconnen",
     "type": "Pubs/clubs",
     "name": "Labor Club Belconnen",
@@ -121,8 +143,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.2420948695208,
-    "lon": 149.09350422551242,
+    "lat": -35.204943743330865,
+    "lon": 149.0328798385182,
     "region": "Belconnen",
     "type": "Pubs/clubs",
     "name": "Labor Club Charnwood",
@@ -231,8 +253,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.18564161001672,
-    "lon": 149.1343433209652,
+    "lat": -35.18459284423744,
+    "lon": 149.13183841153258,
     "region": "Gungahlin",
     "type": "Pubs/clubs",
     "name": "Raiders Gunghalin",
@@ -242,8 +264,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.18564161001672,
-    "lon": 149.1343433209652,
+    "lat": -35.18599748145565,
+    "lon": 149.11726534596554,
     "region": "Gungahlin",
     "type": "Pubs/clubs",
     "name": "Gungahlin Lakes Golf Club",
@@ -253,8 +275,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.18564161001672,
-    "lon": 149.1343433209652,
+    "lat": -35.18588635962461,
+    "lon": 149.13764476735312,
     "region": "Gungahlin",
     "type": "Pubs/clubs",
     "name": "Cypher Brewery",
@@ -264,8 +286,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.18564161001672,
-    "lon": 149.1343433209652,
+    "lat": -35.1927900265381,
+    "lon": 149.08639546512023,
     "region": "Gungahlin",
     "type": "Pubs/clubs",
     "name": "George Harcourt Inn",
@@ -385,8 +407,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.26408459739288,
-    "lon": 149.12224882944534,
+    "lat": -35.24397551436988,
+    "lon": 149.12666805386374,
     "region": "North Canberra",
     "type": "Pubs/clubs",
     "name": "Old Canberra Inn",
@@ -396,8 +418,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.2520206695868,
-    "lon": 149.12514657199984,
+    "lat": -35.243796197986825,
+    "lon": 149.12767752902732,
     "region": "North Canberra",
     "type": "Pubs/clubs",
     "name": "Lyneham Hockey Centre",
@@ -418,8 +440,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.26231052580587,
-    "lon": 149.14555652258358,
+    "lat": -35.264124111823854,
+    "lon": 149.1222175422237,
     "region": "North Canberra",
     "type": "Pubs/clubs",
     "name": "The Duxton",
@@ -453,7 +475,7 @@
   {
     "lat": -35.18564161001672,
     "lon": 149.1343433209652,
-    "region": "Molonglo Valley",
+    "region": "Gungahlin",
     "type": "Pubs/clubs",
     "name": "Home Brew Cafe and Bar",
     "address": "Home Brew Cafe and Bar ACT",
@@ -462,19 +484,19 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.37129071393096,
+    "lon": 149.2321418730153,
     "region": "Queanbeyan",
     "type": "Shops",
-    "name": "Karabara Shops",
-    "address": "Karabara Shops, Queanbeyan NSW",
+    "name": "Karabar Shops",
+    "address": "Karabar Shops, Queanbeyan NSW",
     "suburb": "",
     "category": "benefit_shop",
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.351883509402825,
+    "lon": 149.23515873852585,
     "region": "Queanbeyan",
     "type": "Shops",
     "name": "Riverside Plaza",
@@ -484,8 +506,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.380820089639464,
+    "lon": 149.2014427459321,
     "region": "Queanbeyan",
     "type": "Shops",
     "name": "Jerrabomberra Shops",
@@ -495,8 +517,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.35534431726667,
+    "lon": 149.22839841709478,
     "region": "Queanbeyan",
     "type": "Pubs/clubs",
     "name": "Campbell & George",
@@ -517,8 +539,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.35298531484946,
+    "lon": 149.23402895572062,
     "region": "Queanbeyan",
     "type": "Pubs/clubs",
     "name": "The Royal Hotel",
@@ -528,19 +550,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
-    "region": "South Canberra",
-    "type": "Pubs/clubs",
-    "name": "National Press Club",
-    "address": "National Press Club, South Canberra ACT",
-    "suburb": "",
-    "category": "benefit_pub_club",
-    "colour": "#0099ff"
-  },
-  {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.31136163211365,
+    "lon": 149.1335729808519,
     "region": "South Canberra",
     "type": "Pubs/clubs",
     "name": "Ostani / Leyla Bar",
@@ -550,8 +561,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.319225519859955,
+    "lon": 149.13802340968823,
     "region": "South Canberra",
     "type": "Pubs/clubs",
     "name": "Kingston Hotel",
@@ -561,8 +572,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.32009320028583,
+    "lon": 149.13343662318076,
     "region": "South Canberra",
     "type": "Pubs/clubs",
     "name": "Public Bar",
@@ -572,8 +583,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.31235570127124,
+    "lon": 149.14671731153913,
     "region": "South Canberra",
     "type": "Pubs/clubs",
     "name": "The Dock",
@@ -583,8 +594,19 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.32094233688236,
+    "lon": 149.13420909936428,
+    "region": "South Canberra",
+    "type": "Shops",
+    "name": "Manuka Shops",
+    "address": "Manuka Shops, South Canberra ACT",
+    "suburb": "",
+    "category": "benefit_shop",
+    "colour": "#1fa14e"
+  },
+  {
+    "lat": -35.346195612402326,
+    "lon": 149.08624346137412,
     "region": "Woden",
     "type": "Shops",
     "name": "Westfield Woden",
@@ -594,8 +616,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.36487072866304,
+    "lon": 149.09421334560366,
     "region": "Woden",
     "type": "Shops",
     "name": "Mawson Shops",
@@ -605,8 +627,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.32488287710963,
+    "lon": 149.0829461403755,
     "region": "Woden",
     "type": "Shops",
     "name": "Curtin Shops",
@@ -616,8 +638,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.33902689838672,
+    "lon": 149.07667256919888,
     "region": "Woden",
     "type": "Shops",
     "name": "Lyons Shops",
@@ -627,8 +649,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.36535734842791,
+    "lon": 149.09569338650766,
     "region": "Woden",
     "type": "Pubs/clubs",
     "name": "Mawson Club",
@@ -638,8 +660,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.34185252945705,
+    "lon": 149.08693818455586,
     "region": "Woden",
     "type": "Pubs/clubs",
     "name": "Hellenic Club",
@@ -649,8 +671,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.34357880342476,
+    "lon": 149.08515055386889,
     "region": "Woden",
     "type": "Pubs/clubs",
     "name": "The Alby",
@@ -660,8 +682,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.346400034567175,
+    "lon": 149.08685547488932,
     "region": "Woden",
     "type": "Pubs/clubs",
     "name": "Southern Cross Club Woden",
@@ -671,8 +693,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.341016623622835,
+    "lon": 149.0526114096895,
     "region": "Weston Creek",
     "type": "Shops",
     "name": "Cooleman Court Shops",
@@ -682,8 +704,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.34303004651851,
+    "lon": 149.0562006327048,
     "region": "Weston Creek",
     "type": "Pubs/clubs",
     "name": "Irish Club",
@@ -693,8 +715,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.34263589259685,
+    "lon": 149.05136148835882,
     "region": "Weston Creek",
     "type": "Pubs/clubs",
     "name": "Raiders Weston",
@@ -704,8 +726,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.416598557875616,
+    "lon": 149.0665102385292,
     "region": "Tuggeranong",
     "type": "Shops",
     "name": "Southpoint Shops",
@@ -715,8 +737,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.38039844416266,
+    "lon": 149.05791582879974,
     "region": "Tuggeranong",
     "type": "Shops",
     "name": "Kambah Shops",
@@ -726,8 +748,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.40349300792075,
+    "lon": 149.09881409990265,
     "region": "Tuggeranong",
     "type": "Shops",
     "name": "Erindale Shops",
@@ -737,8 +759,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.3907537106136,
+    "lon": 149.08600058646917,
     "region": "Tuggeranong",
     "type": "Shops",
     "name": "Wanniassa Shops",
@@ -748,8 +770,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.457062825365036,
+    "lon": 149.09252035767176,
     "region": "Tuggeranong",
     "type": "Shops",
     "name": "Lanyon Marketplace",
@@ -759,8 +781,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.4344131400938,
+    "lon": 149.11417964038122,
     "region": "Tuggeranong",
     "type": "Shops",
     "name": "Calwell Shops",
@@ -770,8 +792,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.4138795574098,
+    "lon": 149.12849821392962,
     "region": "Tuggeranong",
     "type": "Shops",
     "name": "Chisholm Shops",
@@ -781,8 +803,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.41531044232521,
+    "lon": 149.0639927096932,
     "region": "Tuggeranong",
     "type": "Pubs/clubs",
     "name": "Southern Cross Club Tuggeranong",
@@ -792,8 +814,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.381352256629015,
+    "lon": 149.0589612673632,
     "region": "Tuggeranong",
     "type": "Pubs/clubs",
     "name": "The Burns Club",
@@ -803,8 +825,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.416776749535714,
+    "lon": 149.0613764288164,
     "region": "Tuggeranong",
     "type": "Pubs/clubs",
     "name": "Vikings Tuggeranong",
@@ -814,8 +836,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.280957,
-    "lon": 149.13,
+    "lat": -35.405382732037104,
+    "lon": 149.09683008465646,
     "region": "Tuggeranong",
     "type": "Pubs/clubs",
     "name": "Vikings Erindale",

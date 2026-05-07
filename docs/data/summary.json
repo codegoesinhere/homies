@@ -1,7 +1,7 @@
 [
   {
     "region": "Belconnen",
-    "last_run": "07 May 2026 06:16 PM",
+    "last_run": "08 May 2026 01:02 AM",
     "status": "success",
     "imported_count": 15,
     "listing_count": 19,
@@ -11,7 +11,7 @@
   },
   {
     "region": "Gungahlin",
-    "last_run": "07 May 2026 06:35 PM",
+    "last_run": "08 May 2026 01:20 AM",
     "status": "success",
     "imported_count": 28,
     "listing_count": 31,
@@ -21,7 +21,7 @@
   },
   {
     "region": "North Canberra",
-    "last_run": "07 May 2026 06:52 PM",
+    "last_run": "08 May 2026 01:37 AM",
     "status": "success",
     "imported_count": 6,
     "listing_count": 10,
@@ -31,7 +31,7 @@
   },
   {
     "region": "South Canberra",
-    "last_run": "07 May 2026 07:08 PM",
+    "last_run": "08 May 2026 01:54 AM",
     "status": "success",
     "imported_count": 1,
     "listing_count": 2,
@@ -41,7 +41,7 @@
   },
   {
     "region": "Weston Creek",
-    "last_run": "07 May 2026 07:24 PM",
+    "last_run": "08 May 2026 02:10 AM",
     "status": "success",
     "imported_count": 0,
     "listing_count": 1,
@@ -51,7 +51,7 @@
   },
   {
     "region": "Woden Valley",
-    "last_run": "07 May 2026 07:41 PM",
+    "last_run": "08 May 2026 02:26 AM",
     "status": "success",
     "imported_count": 10,
     "listing_count": 14,
@@ -61,7 +61,7 @@
   },
   {
     "region": "Molonglo Valley",
-    "last_run": "07 May 2026 07:57 PM",
+    "last_run": "08 May 2026 02:43 AM",
     "status": "success",
     "imported_count": 4,
     "listing_count": 7,
@@ -71,7 +71,7 @@
   },
   {
     "region": "Tuggeranong",
-    "last_run": "07 May 2026 08:14 PM",
+    "last_run": "08 May 2026 02:59 AM",
     "status": "success",
     "imported_count": 6,
     "listing_count": 8,
@@ -81,7 +81,7 @@
   },
   {
     "region": "Queanbeyan",
-    "last_run": "07 May 2026 08:31 PM",
+    "last_run": "08 May 2026 03:17 AM",
     "status": "success",
     "imported_count": 11,
     "listing_count": 18,
