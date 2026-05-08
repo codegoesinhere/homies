@@ -1,7 +1,7 @@
 [
   {
-    "lat": -35.346195612402326,
-    "lon": 149.08624346137412,
+    "lat": -35.23789245158434,
+    "lon": 149.06540697661174,
     "region": "Belconnen",
     "type": "Shops",
     "name": "Westfield Belconnen",
@@ -253,6 +253,17 @@
     "colour": "#1fa14e"
   },
   {
+    "lat": -35.18564161001672,
+    "lon": 149.1343433209652,
+    "region": "Gungahlin",
+    "type": "Pubs/clubs",
+    "name": "Home Brew Cafe and Bar",
+    "address": "Home Brew Cafe and Bar ACT",
+    "suburb": "",
+    "category": "benefit_pub_club",
+    "colour": "#0099ff"
+  },
+  {
     "lat": -35.18459284423744,
     "lon": 149.13183841153258,
     "region": "Gungahlin",
@@ -451,8 +462,8 @@
     "colour": "#0099ff"
   },
   {
-    "lat": -35.18564161001672,
-    "lon": 149.1343433209652,
+    "lat": -35.2990575833051,
+    "lon": 149.02282475767177,
     "region": "Molonglo Valley",
     "type": "Shops",
     "name": "Denman Prospect Shops",
@@ -462,8 +473,8 @@
     "colour": "#1fa14e"
   },
   {
-    "lat": -35.18564161001672,
-    "lon": 149.1343433209652,
+    "lat": -35.32077332389497,
+    "lon": 149.03725573975754,
     "region": "Molonglo Valley",
     "type": "Shops",
     "name": "Wright Shops",
@@ -471,17 +482,6 @@
     "suburb": "",
     "category": "benefit_shop",
     "colour": "#1fa14e"
-  },
-  {
-    "lat": -35.18564161001672,
-    "lon": 149.1343433209652,
-    "region": "Gungahlin",
-    "type": "Pubs/clubs",
-    "name": "Home Brew Cafe and Bar",
-    "address": "Home Brew Cafe and Bar ACT",
-    "suburb": "",
-    "category": "benefit_pub_club",
-    "colour": "#0099ff"
   },
   {
     "lat": -35.37129071393096,
@@ -594,6 +594,17 @@
     "colour": "#0099ff"
   },
   {
+    "lat": -35.3388084364188,
+    "lon": 149.1515612149607,
+    "region": "South Canberra",
+    "type": "Pubs/clubs",
+    "name": "Harmonie German Club",
+    "address": "Harmonie German Club, South Canberra ACT",
+    "suburb": "",
+    "category": "benefit_pub_club",
+    "colour": "#0099ff"
+  },
+  {
     "lat": -35.32094233688236,
     "lon": 149.13420909936428,
     "region": "South Canberra",
@@ -605,9 +616,20 @@
     "colour": "#1fa14e"
   },
   {
+    "lat": -35.34114970618977,
+    "lon": 149.13148360600337,
+    "region": "South Canberra",
+    "type": "Shops",
+    "name": "Red Hill Shops",
+    "address": "Red Hill Shops, South Canberra ACT",
+    "suburb": "",
+    "category": "benefit_shop",
+    "colour": "#1fa14e"
+  },
+  {
     "lat": -35.346195612402326,
     "lon": 149.08624346137412,
-    "region": "Woden",
+    "region": "Woden Valley",
     "type": "Shops",
     "name": "Westfield Woden",
     "address": "Westfield Woden, Woden ACT",
@@ -618,7 +640,7 @@
   {
     "lat": -35.36487072866304,
     "lon": 149.09421334560366,
-    "region": "Woden",
+    "region": "Woden Valley",
     "type": "Shops",
     "name": "Mawson Shops",
     "address": "Mawson Shops, Woden ACT",
@@ -629,7 +651,7 @@
   {
     "lat": -35.32488287710963,
     "lon": 149.0829461403755,
-    "region": "Woden",
+    "region": "Woden Valley",
     "type": "Shops",
     "name": "Curtin Shops",
     "address": "Curtin Shops, Woden ACT",
@@ -640,7 +662,7 @@
   {
     "lat": -35.33902689838672,
     "lon": 149.07667256919888,
-    "region": "Woden",
+    "region": "Woden Valley",
     "type": "Shops",
     "name": "Lyons Shops",
     "address": "Lyons Shops, Woden ACT",
@@ -651,7 +673,7 @@
   {
     "lat": -35.36535734842791,
     "lon": 149.09569338650766,
-    "region": "Woden",
+    "region": "Woden Valley",
     "type": "Pubs/clubs",
     "name": "Mawson Club",
     "address": "Mawson Club, Woden ACT",
@@ -662,7 +684,7 @@
   {
     "lat": -35.34185252945705,
     "lon": 149.08693818455586,
-    "region": "Woden",
+    "region": "Woden Valley",
     "type": "Pubs/clubs",
     "name": "Hellenic Club",
     "address": "Hellenic Club, Woden ACT",
@@ -673,7 +695,7 @@
   {
     "lat": -35.34357880342476,
     "lon": 149.08515055386889,
-    "region": "Woden",
+    "region": "Woden Valley",
     "type": "Pubs/clubs",
     "name": "The Alby",
     "address": "The Alby, Woden ACT",
@@ -684,7 +706,7 @@
   {
     "lat": -35.346400034567175,
     "lon": 149.08685547488932,
-    "region": "Woden",
+    "region": "Woden Valley",
     "type": "Pubs/clubs",
     "name": "Southern Cross Club Woden",
     "address": "Southern Cross Club Woden, Woden ACT",
@@ -693,12 +715,45 @@
     "colour": "#0099ff"
   },
   {
+    "lat": -35.35557796357889,
+    "lon": 149.04062487799735,
+    "region": "Weston Creek",
+    "type": "Shops",
+    "name": "Chapman Shops",
+    "address": "Chapman Shops, Weston Creek ACT",
+    "suburb": "",
+    "category": "benefit_shop",
+    "colour": "#1fa14e"
+  },
+  {
+    "lat": -35.33675204281658,
+    "lon": 149.03258671228724,
+    "region": "Weston Creek",
+    "type": "Shops",
+    "name": "Duffy Shops",
+    "address": "Duffy Shops, Weston Creek ACT",
+    "suburb": "",
+    "category": "benefit_shop",
+    "colour": "#1fa14e"
+  },
+  {
     "lat": -35.341016623622835,
     "lon": 149.0526114096895,
     "region": "Weston Creek",
     "type": "Shops",
     "name": "Cooleman Court Shops",
     "address": "Cooleman Court Shops, Weston Creek ACT",
+    "suburb": "",
+    "category": "benefit_shop",
+    "colour": "#1fa14e"
+  },
+  {
+    "lat": -35.352851024580445,
+    "lon": 149.05953382840286,
+    "region": "Weston Creek",
+    "type": "Shops",
+    "name": "Waramanga Shops",
+    "address": "Waramanga Shops, Weston Creek ACT",
     "suburb": "",
     "category": "benefit_shop",
     "colour": "#1fa14e"
