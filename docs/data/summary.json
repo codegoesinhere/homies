@@ -1,21 +1,21 @@
 [
   {
     "region": "Belconnen",
-    "last_run": "08 May 2026 01:02 AM",
-    "status": "success",
-    "imported_count": 15,
+    "last_run": "08 May 2026 10:50 AM",
+    "status": "running",
+    "imported_count": 0,
     "listing_count": 19,
     "mapped_count": 19,
     "missing_coordinates": 0,
-    "message": "Import completed. Coordinates: 0 updated from 0 attempted."
+    "message": "Import running"
   },
   {
     "region": "Gungahlin",
-    "last_run": "08 May 2026 10:21 AM",
+    "last_run": "08 May 2026 12:33 PM",
     "status": "success",
-    "imported_count": 28,
-    "listing_count": 31,
-    "mapped_count": 31,
+    "imported_count": 26,
+    "listing_count": 19,
+    "mapped_count": 19,
     "missing_coordinates": 0,
     "message": "Import completed. Coordinates: 0 updated from 0 attempted."
   },
@@ -81,11 +81,11 @@
   },
   {
     "region": "Queanbeyan",
-    "last_run": "08 May 2026 03:17 AM",
+    "last_run": "08 May 2026 12:27 PM",
     "status": "success",
     "imported_count": 11,
-    "listing_count": 18,
-    "mapped_count": 18,
+    "listing_count": 11,
+    "mapped_count": 11,
     "missing_coordinates": 0,
     "message": "Import completed. Coordinates: 0 updated from 0 attempted."
   }
