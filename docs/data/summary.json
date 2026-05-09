@@ -1,7 +1,7 @@
 [
   {
     "region": "Belconnen",
-    "last_run": "09 May 2026 01:02 AM",
+    "last_run": "10 May 2026 01:02 AM",
     "status": "success",
     "imported_count": 14,
     "listing_count": 13,
@@ -11,17 +11,17 @@
   },
   {
     "region": "Gungahlin",
-    "last_run": "09 May 2026 01:21 AM",
+    "last_run": "10 May 2026 01:21 AM",
     "status": "success",
-    "imported_count": 27,
-    "listing_count": 20,
-    "mapped_count": 20,
+    "imported_count": 30,
+    "listing_count": 22,
+    "mapped_count": 22,
     "missing_coordinates": 0,
     "message": "Import completed. Coordinates: 0 updated from 0 attempted."
   },
   {
     "region": "North Canberra",
-    "last_run": "09 May 2026 01:38 AM",
+    "last_run": "10 May 2026 01:38 AM",
     "status": "success",
     "imported_count": 6,
     "listing_count": 5,
@@ -31,7 +31,7 @@
   },
   {
     "region": "South Canberra",
-    "last_run": "09 May 2026 01:55 AM",
+    "last_run": "10 May 2026 01:54 AM",
     "status": "success",
     "imported_count": 1,
     "listing_count": 1,
@@ -41,7 +41,7 @@
   },
   {
     "region": "Weston Creek",
-    "last_run": "09 May 2026 02:10 AM",
+    "last_run": "10 May 2026 02:10 AM",
     "status": "success",
     "imported_count": 1,
     "listing_count": 1,
@@ -51,7 +51,7 @@
   },
   {
     "region": "Woden Valley",
-    "last_run": "09 May 2026 02:27 AM",
+    "last_run": "10 May 2026 02:27 AM",
     "status": "success",
     "imported_count": 9,
     "listing_count": 8,
@@ -61,7 +61,7 @@
   },
   {
     "region": "Molonglo Valley",
-    "last_run": "09 May 2026 02:44 AM",
+    "last_run": "10 May 2026 02:43 AM",
     "status": "success",
     "imported_count": 5,
     "listing_count": 4,
@@ -71,7 +71,7 @@
   },
   {
     "region": "Tuggeranong",
-    "last_run": "09 May 2026 03:00 AM",
+    "last_run": "10 May 2026 03:00 AM",
     "status": "success",
     "imported_count": 6,
     "listing_count": 5,
@@ -81,7 +81,7 @@
   },
   {
     "region": "Queanbeyan",
-    "last_run": "09 May 2026 03:18 AM",
+    "last_run": "10 May 2026 03:17 AM",
     "status": "success",
     "imported_count": 11,
     "listing_count": 11,
