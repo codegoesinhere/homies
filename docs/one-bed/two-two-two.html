@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2-2-2 listings</title>
+  <link rel="stylesheet" href="assets/site.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body id="top">
+<header class="site-header">
+  <div>
+    <h1>Property tracker</h1>
+    <p>Generated 12 May 2026 10:46 PM</p>
+  </div>
+  <nav><div class="nav-row nav-primary"><a href="index.html">Summary</a><a href="listings.html">Listings</a><a href="open.html">Open</a><a href="mindful.html">Mindful</a><a href="red-flagged.html">Red flagged</a><a href="two-two-two.html">2-2-2</a></div><div class="nav-row nav-regions"><a href="regions/belconnen.html" title="Belconnen">Bel</a><a href="regions/gungahlin.html" title="Gungahlin">Gun</a><a href="regions/north-canberra-city.html" title="North Canberra - City">City</a><a href="regions/north-canberra-hockey.html" title="North Canberra - Hockey">Hockey</a></div></nav>
+</header>
+<main><section class="card"><h2>2-2-2</h2><p>0x listings with at least 2 beds, 2 baths and 2 car spaces, excluding red-flagged entries.</p>
+<div class="table-wrap"><table class="listing-table mobile-card-table">
+<thead><tr><th>Address</th><th>Suburb</th><th>Price</th><th>Status</th><th>Beds</th><th>Baths</th><th>Car</th><th>Mindful</th></tr></thead>
+<tbody></tbody>
+</table></div></section><section class="card"><h2>2-2-2 red flagged</h2><p>1x red-flagged listings that also meet 2 beds, 2 baths and 2 car spaces.</p>
+<div class="table-wrap"><table class="listing-table mobile-card-table">
+<thead><tr><th>Address</th><th>Suburb</th><th>Price</th><th>Status</th><th>Beds</th><th>Baths</th><th>Car</th><th>Mindful</th><th>Red flag</th></tr></thead>
+<tbody><tr><td class="address-cell" data-label="Address">56/2 Eardley Street <a class="mini-link site-a" href="https://www.allhomes.com.au/unit-56-2-eardley-street-bruce-act-2617/" target="_blank" rel="noopener noreferrer">(open A)</a></td><td data-label="Suburb">Bruce</td><td data-label="Price">$399,000+</td><td data-label="Status"></td><td data-label="Beds">3</td><td data-label="Baths">2</td><td data-label="Car">2</td><td data-label="Mindful"></td><td data-label="Red flag"><span class="pill pill-redflag">Elara</span> <span class="pill pill-redflag">High Strata</span></td></tr></tbody>
+</table></div></section><script>
+(function () {
+  function applyOneBedRedFlagDefault() {
+    var inputs = Array.from(document.querySelectorAll('input[type="checkbox"]'));
+    inputs
+      .filter(function (input) {
+        var text = [
+          input.id || '',
+          input.name || '',
+          input.value || '',
+          input.getAttribute('aria-label') || '',
+          input.closest('label') ? input.closest('label').innerText : '',
+          input.parentElement ? input.parentElement.innerText : ''
+        ].join(' ').toLowerCase();
+        return text.includes('red flag') || text.includes('red-flag') || text.includes('redflag') || text.includes('excluded');
+      })
+      .forEach(function (input) {
+        input.checked = false;
+        input.dispatchEvent(new Event('input', { bubbles: true }));
+        input.dispatchEvent(new Event('change', { bubbles: true }));
+      });
+  }
+
+  window.addEventListener('load', function () {
+    applyOneBedRedFlagDefault();
+    window.setTimeout(applyOneBedRedFlagDefault, 100);
+    window.setTimeout(applyOneBedRedFlagDefault, 500);
+  });
+})();
+</script>
+</main>
+<script src="assets/site.js"></script>
+</body>
+</html>
