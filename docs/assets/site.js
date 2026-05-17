@@ -44,12 +44,15 @@ function initMap(el) {
 
   const controls = document.querySelector(`[data-map-controls="${el.id}"]`);
   if (controls) {
+    const applyLayerState = (input) => {
+      const group = layerGroups[input.dataset.layer];
+      if (!group) return;
+      if (input.checked) group.addTo(map); else map.removeLayer(group);
+    };
+
     controls.querySelectorAll('input[type="checkbox"]').forEach(input => {
-      input.addEventListener('change', () => {
-        const group = layerGroups[input.dataset.layer];
-        if (!group) return;
-        if (input.checked) group.addTo(map); else map.removeLayer(group);
-      });
+      input.addEventListener('change', () => applyLayerState(input));
+      applyLayerState(input);
     });
   }
 }
