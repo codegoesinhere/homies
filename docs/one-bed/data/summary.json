@@ -2,7 +2,7 @@
   {
     "region": "Belconnen",
     "slug": "belconnen",
-    "last_run": "28 May 2026 10:05 PM",
+    "last_run": "29 May 2026 10:05 PM",
     "status": "success",
     "imported_count": 45,
     "listing_count": 45,
@@ -13,33 +13,33 @@
   {
     "region": "Gungahlin",
     "slug": "gungahlin",
-    "last_run": "28 May 2026 10:25 PM",
+    "last_run": "29 May 2026 10:25 PM",
     "status": "success",
-    "imported_count": 39,
-    "listing_count": 39,
-    "mapped_count": 39,
+    "imported_count": 38,
+    "listing_count": 38,
+    "mapped_count": 38,
     "missing_coordinates": 0,
     "message": "Import completed. Coordinates: 0 updated from 0 attempted."
   },
   {
     "region": "North Canberra - City",
     "slug": "north-canberra-city",
-    "last_run": "28 May 2026 10:46 PM",
+    "last_run": "29 May 2026 10:46 PM",
     "status": "success",
     "imported_count": 38,
-    "listing_count": 27,
-    "mapped_count": 27,
+    "listing_count": 26,
+    "mapped_count": 26,
     "missing_coordinates": 0,
     "message": "Import completed. Coordinates: 0 updated from 0 attempted."
   },
   {
     "region": "North Canberra - Hockey",
     "slug": "north-canberra-hockey",
-    "last_run": "28 May 2026 10:46 PM",
+    "last_run": "29 May 2026 10:46 PM",
     "status": "success",
     "imported_count": 38,
-    "listing_count": 11,
-    "mapped_count": 11,
+    "listing_count": 12,
+    "mapped_count": 12,
     "missing_coordinates": 0,
     "message": "Import completed. Coordinates: 0 updated from 0 attempted."
   }
