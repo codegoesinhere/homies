@@ -2,7 +2,7 @@
   {
     "region": "Belconnen",
     "slug": "belconnen",
-    "last_run": "30 May 2026 10:06 PM",
+    "last_run": "31 May 2026 10:06 PM",
     "status": "success",
     "imported_count": 47,
     "listing_count": 47,
@@ -13,7 +13,7 @@
   {
     "region": "Gungahlin",
     "slug": "gungahlin",
-    "last_run": "30 May 2026 10:26 PM",
+    "last_run": "31 May 2026 10:26 PM",
     "status": "success",
     "imported_count": 38,
     "listing_count": 38,
@@ -24,7 +24,7 @@
   {
     "region": "North Canberra - City",
     "slug": "north-canberra-city",
-    "last_run": "30 May 2026 10:47 PM",
+    "last_run": "31 May 2026 10:48 PM",
     "status": "success",
     "imported_count": 38,
     "listing_count": 26,
@@ -35,7 +35,7 @@
   {
     "region": "North Canberra - Hockey",
     "slug": "north-canberra-hockey",
-    "last_run": "30 May 2026 10:47 PM",
+    "last_run": "31 May 2026 10:48 PM",
     "status": "success",
     "imported_count": 38,
     "listing_count": 12,
