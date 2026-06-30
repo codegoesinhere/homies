@@ -108,9 +108,11 @@ function combineMobileFeatures() {
     grid.className = 'feature-grid-mobile';
     grid.setAttribute('data-label', 'Features');
     grid.innerHTML =
-      '<span class="feature-mini"><strong>Beds</strong>' + beds.textContent.trim() + '</span>' +
-      '<span class="feature-mini"><strong>Baths</strong>' + baths.textContent.trim() + '</span>' +
-      '<span class="feature-mini"><strong>Car</strong>' + car.textContent.trim() + '</span>';
+    '<div class="feature-row">' +
+        '<span class="feature-mini"><strong>Beds</strong>' + beds.textContent.trim() + '</span>' +
+        '<span class="feature-mini"><strong>Baths</strong>' + baths.textContent.trim() + '</span>' +
+        '<span class="feature-mini"><strong>Car</strong>' + car.textContent.trim() + '</span>' +
+    '</div>';
 
     beds.parentNode.insertBefore(grid, beds);
     beds.remove();
