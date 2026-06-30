@@ -65,6 +65,7 @@ tbody tr:hover { background: rgba(255,255,255,0.035); }
 .map-controls input { vertical-align: middle; }
 
 .key-sale { border-bottom: 3px solid #8b5cf6; }
+.key-sale-one-car { border-bottom: 3px solid #4B5563; }
 .key-offer { border-bottom: 3px solid #f97316; }
 .key-red { border-bottom: 3px solid var(--pill-redflag); }
 .key-mindful { border-bottom: 3px solid #f9a8d4; }
@@ -100,6 +101,15 @@ summary { cursor: pointer; font-weight: 700; }
   table.mobile-card-table td.address-cell { display: block; font-size: 12px; font-weight: 700; padding-bottom: 8px; }
   table.mobile-card-table td.address-cell::before { content: none; }
 
-  .feature-mini { display: block; border: 1px solid var(--border); border-radius: 8px; padding: 5px 4px; text-align: center; font-size: 11px; line-height: 1.15; min-width: 0; }
-  .feature-mini strong { display: block; font-size: 9px; color: #9ca3af; margin-bottom: 2px; }
+  table.mobile-card-table td[data-label="Mindful"]:empty, table.mobile-card-table td[data-label="Red flag"]:empty {display: none !important;}
+  table.mobile-card-table td[data-label="Mindful"], table.mobile-card-table td[data-label="Red flag"] { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  table.mobile-card-table td[data-label="Mindful"]::before, table.mobile-card-table td[data-label="Red flag"]::before {flex: 0 0 92px;}
+  table.mobile-card-table td[data-label="Mindful"] .pill, table.mobile-card-table td[data-label="Red flag"] .pill {display: inline-flex; width: auto; max-width: none; white-space: nowrap; flex: 0 0 auto; }
+  table.mobile-card-table td[data-label="Mindful"] .pill, table.mobile-card-table td[data-label="Red flag"] .pill { display: inline-flex; width: fit-content; max-width: fit-content; white-space: nowrap; flex-wrap: nowrap; align-self: flex-start;}
+
+  .feature-grid-mobile::before {content: "Features"; }
+  .feature-row {display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px;  width: 100%; }
+  .feature-mini {display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; padding: 8px 4px; border: 1px solid var(--border); border-radius: 8px; text-align: center; min-width: 0; }
+  .feature-mini strong {font-size: 10px; color: #9ca3af; margin-bottom: 3px;}
+  .feature-mini {font-size: 14px; font-weight: 700; }
 }
