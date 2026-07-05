@@ -1,7 +1,7 @@
 [
   {
     "region": "Belconnen",
-    "last_run": "05 Jul 2026 04:05 AM",
+    "last_run": "06 Jul 2026 04:04 AM",
     "status": "success",
     "imported_count": 38,
     "listing_count": 34,
@@ -11,7 +11,7 @@
   },
   {
     "region": "Gungahlin",
-    "last_run": "05 Jul 2026 04:25 AM",
+    "last_run": "06 Jul 2026 04:25 AM",
     "status": "success",
     "imported_count": 45,
     "listing_count": 42,
@@ -21,9 +21,9 @@
   },
   {
     "region": "North Canberra",
-    "last_run": "05 Jul 2026 04:43 AM",
+    "last_run": "06 Jul 2026 04:42 AM",
     "status": "success",
-    "imported_count": 14,
+    "imported_count": 12,
     "listing_count": 11,
     "mapped_count": 11,
     "missing_coordinates": 0,
@@ -31,7 +31,7 @@
   },
   {
     "region": "South Canberra",
-    "last_run": "05 Jul 2026 05:00 AM",
+    "last_run": "06 Jul 2026 04:59 AM",
     "status": "success",
     "imported_count": 15,
     "listing_count": 3,
@@ -41,7 +41,7 @@
   },
   {
     "region": "Weston Creek",
-    "last_run": "05 Jul 2026 05:51 AM",
+    "last_run": "06 Jul 2026 05:50 AM",
     "status": "success",
     "imported_count": 9,
     "listing_count": 1,
@@ -51,9 +51,9 @@
   },
   {
     "region": "Woden Valley",
-    "last_run": "05 Jul 2026 05:35 AM",
+    "last_run": "06 Jul 2026 05:34 AM",
     "status": "success",
-    "imported_count": 9,
+    "imported_count": 8,
     "listing_count": 8,
     "mapped_count": 8,
     "missing_coordinates": 0,
@@ -61,17 +61,17 @@
   },
   {
     "region": "Molonglo Valley",
-    "last_run": "05 Jul 2026 05:18 AM",
+    "last_run": "06 Jul 2026 05:18 AM",
     "status": "success",
     "imported_count": 29,
-    "listing_count": 25,
-    "mapped_count": 25,
+    "listing_count": 26,
+    "mapped_count": 26,
     "missing_coordinates": 0,
     "message": "Import completed. Coordinates: 0 updated from 0 attempted."
   },
   {
     "region": "Tuggeranong",
-    "last_run": "05 Jul 2026 06:08 AM",
+    "last_run": "06 Jul 2026 06:08 AM",
     "status": "success",
     "imported_count": 16,
     "listing_count": 15,
@@ -81,7 +81,7 @@
   },
   {
     "region": "Queanbeyan",
-    "last_run": "05 Jul 2026 06:27 AM",
+    "last_run": "06 Jul 2026 06:26 AM",
     "status": "success",
     "imported_count": 25,
     "listing_count": 21,
