@@ -1,7 +1,7 @@
 [
   {
     "region": "Belconnen",
-    "last_run": "14 Jul 2026 09:16 AM",
+    "last_run": "15 Jul 2026 01:03 AM",
     "allhomes_count": 18,
     "zango_count": 8,
     "new_count": 0,
@@ -13,7 +13,7 @@
   },
   {
     "region": "Gungahlin",
-    "last_run": "14 Jul 2026 09:35 AM",
+    "last_run": "15 Jul 2026 01:22 AM",
     "allhomes_count": 23,
     "zango_count": 8,
     "new_count": 0,
@@ -25,11 +25,11 @@
   },
   {
     "region": "North Canberra",
-    "last_run": "14 Jul 2026 09:51 AM",
+    "last_run": "15 Jul 2026 01:39 AM",
     "allhomes_count": 8,
-    "zango_count": 2,
+    "zango_count": 1,
     "new_count": 0,
-    "dropped_count": 1,
+    "dropped_count": 0,
     "removed_count": 0,
     "listing_count": 8,
     "mapped_count": 8,
@@ -37,7 +37,7 @@
   },
   {
     "region": "South Canberra",
-    "last_run": "14 Jul 2026 10:08 AM",
+    "last_run": "15 Jul 2026 01:55 AM",
     "allhomes_count": 11,
     "zango_count": 0,
     "new_count": 0,
@@ -49,7 +49,7 @@
   },
   {
     "region": "Weston Creek",
-    "last_run": "14 Jul 2026 10:24 AM",
+    "last_run": "15 Jul 2026 02:11 AM",
     "allhomes_count": 4,
     "zango_count": 0,
     "new_count": 0,
@@ -61,7 +61,7 @@
   },
   {
     "region": "Woden Valley",
-    "last_run": "14 Jul 2026 10:41 AM",
+    "last_run": "15 Jul 2026 02:28 AM",
     "allhomes_count": 8,
     "zango_count": 5,
     "new_count": 0,
@@ -73,11 +73,11 @@
   },
   {
     "region": "Molonglo Valley",
-    "last_run": "14 Jul 2026 10:57 AM",
+    "last_run": "15 Jul 2026 02:45 AM",
     "allhomes_count": 9,
-    "zango_count": 1,
+    "zango_count": 0,
     "new_count": 0,
-    "dropped_count": 1,
+    "dropped_count": 0,
     "removed_count": 0,
     "listing_count": 9,
     "mapped_count": 9,
@@ -85,10 +85,10 @@
   },
   {
     "region": "Tuggeranong",
-    "last_run": "14 Jul 2026 11:14 AM",
+    "last_run": "15 Jul 2026 03:01 AM",
     "allhomes_count": 6,
     "zango_count": 3,
-    "new_count": 1,
+    "new_count": 0,
     "dropped_count": 0,
     "removed_count": 0,
     "listing_count": 7,
@@ -97,7 +97,7 @@
   },
   {
     "region": "Queanbeyan",
-    "last_run": "14 Jul 2026 11:31 AM",
+    "last_run": "15 Jul 2026 03:19 AM",
     "allhomes_count": 15,
     "zango_count": 0,
     "new_count": 0,
