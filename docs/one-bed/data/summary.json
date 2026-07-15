@@ -2,12 +2,12 @@
   {
     "region": "Belconnen",
     "slug": "belconnen",
-    "last_run": "14 Jul 2026 10:08 PM",
+    "last_run": "15 Jul 2026 10:07 PM",
     "allhomes_count": 51,
-    "zango_count": 18,
-    "new_count": 0,
+    "zango_count": 17,
+    "new_count": 1,
     "dropped_count": 3,
-    "removed_count": 1,
+    "removed_count": 2,
     "listing_count": 55,
     "mapped_count": 55,
     "missing_coordinates": 0
@@ -15,7 +15,7 @@
   {
     "region": "Gungahlin",
     "slug": "gungahlin",
-    "last_run": "14 Jul 2026 10:30 PM",
+    "last_run": "15 Jul 2026 10:28 PM",
     "allhomes_count": 41,
     "zango_count": 13,
     "new_count": 0,
@@ -28,12 +28,12 @@
   {
     "region": "North Canberra - City",
     "slug": "north-canberra-city",
-    "last_run": "14 Jul 2026 10:53 PM",
+    "last_run": "15 Jul 2026 10:50 PM",
     "allhomes_count": 38,
     "zango_count": 18,
-    "new_count": 1,
+    "new_count": 0,
     "dropped_count": 8,
-    "removed_count": 1,
+    "removed_count": 0,
     "listing_count": 25,
     "mapped_count": 25,
     "missing_coordinates": 0
@@ -41,12 +41,12 @@
   {
     "region": "North Canberra - Hockey",
     "slug": "north-canberra-hockey",
-    "last_run": "14 Jul 2026 10:53 PM",
+    "last_run": "15 Jul 2026 10:50 PM",
     "allhomes_count": 38,
     "zango_count": 18,
-    "new_count": 1,
+    "new_count": 0,
     "dropped_count": 8,
-    "removed_count": 1,
+    "removed_count": 0,
     "listing_count": 16,
     "mapped_count": 16,
     "missing_coordinates": 0
