@@ -58,6 +58,16 @@ function initMap(el) {
 }
 document.querySelectorAll('.map[data-map]').forEach(initMap);
 
+function updateStickyTableOffset() {
+  const header = document.querySelector('.site-header');
+  const offset = header ? Math.ceil(header.getBoundingClientRect().height) : 0;
+  document.documentElement.style.setProperty('--table-sticky-top', `${offset}px`);
+}
+
+window.addEventListener('load', updateStickyTableOffset);
+window.addEventListener('resize', updateStickyTableOffset);
+updateStickyTableOffset();
+
 function ensureBackToTop() {
   if (document.querySelector('.back-to-top')) return;
   const btn = document.createElement('a');
