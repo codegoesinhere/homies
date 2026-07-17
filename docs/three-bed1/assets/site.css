@@ -36,8 +36,9 @@ table { width: 100%; border-collapse: collapse; font-size: 11px; min-width: 980p
 .summary-table, .reference-table { min-width: 0; width: 100%; }
 .table-wrap-compact { overflow-x: visible; }
 th, td { border-bottom: 1px solid var(--border); padding: 8px 10px; text-align: left; vertical-align: top; }
-th { white-space: nowrap; color: #f9fafb; background: var(--panel-bg); position: sticky; top: 0; }
+th { white-space: nowrap; color: #f9fafb; background: var(--panel-bg); position: sticky; top: 96px; z-index: 1200; }
 tbody tr:hover { background: rgba(255,255,255,0.035); }
+.nowrap { text-wrap:nowrap; }
 
 .address-cell { min-width: 260px; }
 .mini-link { font-size: 11px; margin-left: 5px; white-space: nowrap; font-weight: 700; }
@@ -90,6 +91,7 @@ summary { cursor: pointer; font-weight: 700; }
   main { padding: 12px; }
   .card { padding: 12px; }
   th, td { padding: 6px 8px; }
+  th { position: static; top: auto; z-index: auto; }
   .map-controls { position: static; }
 
   table.mobile-card-table { min-width: 0; border-collapse: separate; border-spacing: 0; }
