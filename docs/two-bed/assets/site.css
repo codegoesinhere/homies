@@ -38,6 +38,7 @@ table { width: 100%; border-collapse: collapse; font-size: 11px; min-width: 980p
 th, td { border-bottom: 1px solid var(--border); padding: 8px 10px; text-align: left; vertical-align: top; }
 th { white-space: nowrap; color: #f9fafb; background: var(--panel-bg); position: sticky; top: 0; }
 tbody tr:hover { background: rgba(255,255,255,0.035); }
+.nowrap { text-wrap:nowrap; }
 
 .address-cell { min-width: 260px; }
 .mini-link { font-size: 11px; margin-left: 5px; white-space: nowrap; font-weight: 700; }
