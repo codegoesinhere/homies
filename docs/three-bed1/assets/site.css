@@ -41,7 +41,7 @@ tbody tr:hover { background: rgba(255,255,255,0.035); }
 .nowrap { text-wrap:nowrap; }
 
 .address-cell { min-width: 180px; max-width: 320px; overflow-wrap: anywhere; }
-.mini-link { font-size: 11px; margin-left: 5px; white-space: nowrap; font-weight: 700; }
+.mini-link { font-size: 11px; white-space: nowrap; font-weight: 700; }
 .site-a { color: var(--site-a); }
 .site-z { color: #c084fc; }
 
