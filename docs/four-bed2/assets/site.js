@@ -17,7 +17,7 @@ function makeMarker(map, layerGroups, category, lat, lon, colour, html, radius =
 function initMap(el) {
   const data = JSON.parse(el.dataset.map || '{}');
   const map = L.map(el.id, { scrollWheelZoom: false }).setView(data.defaultCentre, data.defaultZoom);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?key=cb1_4ths_1_e4fbf87f9063c98a121e56cc', { maxZoom: 19, attribution: '&copy; OpenStreetMap contributors &copy; CARTO' }).addTo(map);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap contributors &copy; CARTO' }).addTo(map);
   const layerGroups = {};
   const bounds = [];
 

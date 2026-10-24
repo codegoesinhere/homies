@@ -2,16 +2,16 @@
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color-scheme: dark;
 
-  --body-bg: #12100d;
-  --panel-bg: #201a13;
-  --card-bg: #2a2118;
-  --border: #51402d;
-  --link: #d6b98c;
-  --site-a: #c99a54;
+  --body-bg: #1c1118;
+  --panel-bg: #2b1924;
+  --card-bg: #382230;
+  --border: #765166;
+  --link: #f6c76b;
+  --site-a: #f0b94f;
   --pill-redflag: #b91c1c;
-  --pill-status: #51402d;
-  --pill-preferred: #5a3d24;
-  --mobile-card-bg: rgba(32, 26, 19, 0.86);
+  --pill-status: #543448;
+  --pill-preferred: #61425a;
+  --mobile-card-bg: rgba(43, 25, 36, 0.9);
 }
 
 * { box-sizing: border-box; }
