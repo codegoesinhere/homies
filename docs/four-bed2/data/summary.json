@@ -1,10 +1,10 @@
 [
   {
     "region": "Belconnen",
-    "last_run": "07 Nov 2026 04:34 AM",
+    "last_run": "08 Nov 2026 04:34 AM",
     "allhomes_count": 24,
     "zango_count": 10,
-    "new_count": 0,
+    "new_count": 1,
     "dropped_count": 0,
     "removed_count": 1,
     "listing_count": 28,
@@ -13,12 +13,12 @@
   },
   {
     "region": "Gungahlin",
-    "last_run": "07 Nov 2026 04:47 AM",
+    "last_run": "08 Nov 2026 04:47 AM",
     "allhomes_count": 22,
     "zango_count": 6,
     "new_count": 0,
     "dropped_count": 0,
-    "removed_count": 2,
+    "removed_count": 0,
     "listing_count": 28,
     "mapped_count": 27,
     "missing_coordinates": 1
