@@ -1,7 +1,7 @@
 [
   {
     "region": "Belconnen",
-    "last_run": "08 Nov 2026 03:06 AM",
+    "last_run": "09 Nov 2026 03:06 AM",
     "allhomes_count": 45,
     "zango_count": 16,
     "new_count": 0,
@@ -13,7 +13,7 @@
   },
   {
     "region": "Gungahlin",
-    "last_run": "08 Nov 2026 03:28 AM",
+    "last_run": "09 Nov 2026 03:28 AM",
     "allhomes_count": 44,
     "zango_count": 16,
     "new_count": 0,
@@ -25,19 +25,19 @@
   },
   {
     "region": "North Canberra",
-    "last_run": "08 Nov 2026 03:45 AM",
+    "last_run": "09 Nov 2026 03:46 AM",
     "allhomes_count": 9,
     "zango_count": 7,
     "new_count": 0,
     "dropped_count": 0,
-    "removed_count": 1,
+    "removed_count": 2,
     "listing_count": 9,
     "mapped_count": 9,
     "missing_coordinates": 0
   },
   {
     "region": "South Canberra",
-    "last_run": "08 Nov 2026 04:02 AM",
+    "last_run": "09 Nov 2026 04:03 AM",
     "allhomes_count": 5,
     "zango_count": 2,
     "new_count": 0,
@@ -49,7 +49,7 @@
   },
   {
     "region": "Weston Creek",
-    "last_run": "08 Nov 2026 04:56 AM",
+    "last_run": "09 Nov 2026 04:56 AM",
     "allhomes_count": 10,
     "zango_count": 2,
     "new_count": 0,
@@ -61,7 +61,7 @@
   },
   {
     "region": "Woden Valley",
-    "last_run": "08 Nov 2026 04:39 AM",
+    "last_run": "09 Nov 2026 04:39 AM",
     "allhomes_count": 10,
     "zango_count": 8,
     "new_count": 0,
@@ -73,7 +73,7 @@
   },
   {
     "region": "Molonglo Valley",
-    "last_run": "08 Nov 2026 04:22 AM",
+    "last_run": "09 Nov 2026 04:22 AM",
     "allhomes_count": 33,
     "zango_count": 9,
     "new_count": 0,
@@ -85,7 +85,7 @@
   },
   {
     "region": "Tuggeranong",
-    "last_run": "08 Nov 2026 05:14 AM",
+    "last_run": "09 Nov 2026 05:14 AM",
     "allhomes_count": 19,
     "zango_count": 11,
     "new_count": 0,
@@ -97,10 +97,10 @@
   },
   {
     "region": "Queanbeyan",
-    "last_run": "08 Nov 2026 05:35 AM",
+    "last_run": "09 Nov 2026 05:35 AM",
     "allhomes_count": 39,
     "zango_count": 8,
-    "new_count": 2,
+    "new_count": 0,
     "dropped_count": 1,
     "removed_count": 0,
     "listing_count": 41,
